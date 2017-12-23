@@ -2,7 +2,7 @@
 A very little alfred workflow that can change SOCKS proxy setting for ShadowsocksX-NG.
 ***
 ### Prerequisite
-* [https://github.com/shadowsocks/ShadowsocksX-NG](With ShadowsocksX-NG Installed)
+* [https://github.com/shadowsocks/ShadowsocksX-NG](ShadowsockX-NG)
 * System Requirement: Mac OSX
 * Wi-Fi Proxy Settings Has Been Filled (Later Version Will Modify This Problem)
 * Alfred With Powerback Installed
