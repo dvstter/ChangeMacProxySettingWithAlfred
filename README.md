@@ -2,15 +2,15 @@
 A very little alfred workflow that can change SOCKS proxy setting for ShadowsocksX-NG.
 ***
 ### Prerequisite
-* [https://github.com/shadowsocks/ShadowsocksX-NG](ShadowsockX-NG)
+* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 * System Requirement: Mac OSX
-* Wi-Fi Proxy Settings Has Been Filled (Later Version Will Modify This Problem)
-* Alfred With Powerback Installed
+* [Alfred](https://www.alfredapp.com) With Powerback Installed
 
 ### Usage
-* Installed the ss.alfredworkflow
-* Type kex and see what happend
+* Install the ss.alfredworkflow
+* Go to installing dir of ss.alfredwork from alfred workflow setting page and change the SS_LISTEN_PORT and SS_LISTEN_HOST in the change_proxy_setting.py
+* Type kex and see what happen
 
 ### About
-Any suggestion or problem please contact me.
-Email: p1usj4de_work@gmail.com
+* Any suggestion or problem please contact me.
+* Email: p1usj4de_work@gmail.com
