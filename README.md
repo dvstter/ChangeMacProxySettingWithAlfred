@@ -4,8 +4,6 @@ A very little alfred workflow that can change SOCKS proxy setting for Shadowsock
 
 ![](https://github.com/dvstter/Change-Mac-Proxy-Setting-With-Alfred/blob/master/normal.png)
 
-![](https://github.com/dvstter/Change-Mac-Proxy-Setting-With-Alfred/blob/master/goo.png)
-
 ## Getting Started
 
 These instructions will let you install an alfred workflow to make you easier change the proxy setting (network card is Wi-Fi) for Shadowsocks.
