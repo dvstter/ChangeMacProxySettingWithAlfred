@@ -14,7 +14,7 @@ These instructions will let you install a alfred workflow to make you easier cha
 
 ### Installing
 
-* 1. Change ShadowsocksX-NG setting like there
+* 1. Change ShadowsocksX-NG's mode to Manual Mode, like these
 
 ![](https://github.com/dvstter/Change-Mac-Proxy-Setting-With-Alfred/blob/master/ss_settings.png)
 
