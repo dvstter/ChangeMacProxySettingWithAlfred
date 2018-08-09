@@ -18,13 +18,15 @@ These instructions will let you install an alfred workflow to make you easier ch
 ### Installing
 
 1. Install the **ss.alfredworkflow**
-2. Go to installing dir of ss.alfredwork from alfred workflow setting page and change all the listen hosts and ports in constant.py
+2. Go to installing dir of ss.alfredwork from alfred workflow setting page and change all the listen hosts and ports in constant.py, use **networksetup -listallnetworkservices** to see all the network services, and then change the SERVICES field
 ```python
 SS_LISTEN_HOST="localhost"
 SS_LISTEN_PORT="1086"
 
 TOR_LISTEN_HOST="localhost"
 TOR_LISTEN_PORT="9050"
+
+SERVICES=["Wi-Fi", "'USB 10/100 LAN'"]
 ```
 3. Type **kex** in the alfred and see what happen
 
